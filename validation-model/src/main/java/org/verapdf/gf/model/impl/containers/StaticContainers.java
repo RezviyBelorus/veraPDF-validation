@@ -37,6 +37,7 @@ import java.util.*;
  */
 public class StaticContainers {
 
+	//Test comment, should be deleted
 	private static PDDocument document;
 	private static PDFAFlavour flavour;
 
